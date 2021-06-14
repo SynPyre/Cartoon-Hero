@@ -1,0 +1,32 @@
+h1
+{
+    font-size: 30px;
+    color: teal;
+}
+
+h2
+{
+    color: red;
+}
+
+.big
+{
+    font-size: 100px;
+}
+
+.uppercase
+{
+    text-transform: uppercase;
+    color: brown;
+}
+
+.big.uppercase
+{
+    font-family: fantasy;
+
+}
+
+span
+{
+    color: violet;
+}
